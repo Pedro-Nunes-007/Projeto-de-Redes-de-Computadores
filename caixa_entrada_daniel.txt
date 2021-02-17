@@ -1,0 +1,3 @@
+0|pedro|Bem, vindo(a)!
+0|pedro|mensagem a varios utilzadores
+0|pedro|mensagem multipla

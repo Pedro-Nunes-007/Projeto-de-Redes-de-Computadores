@@ -1,0 +1,1 @@
+todos os ficheiros com a extensão '.txt' estão aqui apenas para facilitar o processo de teste do projeto, uma vez que já tem algumas mensagens enviadas. 
